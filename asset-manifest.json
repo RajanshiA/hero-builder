@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hero-builder/static/css/main.44bb8965.css",
+    "main.js": "/hero-builder/static/js/main.b6a52457.js",
+    "static/js/453.96453769.chunk.js": "/hero-builder/static/js/453.96453769.chunk.js",
+    "index.html": "/hero-builder/index.html",
+    "main.44bb8965.css.map": "/hero-builder/static/css/main.44bb8965.css.map",
+    "main.b6a52457.js.map": "/hero-builder/static/js/main.b6a52457.js.map",
+    "453.96453769.chunk.js.map": "/hero-builder/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44bb8965.css",
+    "static/js/main.b6a52457.js"
+  ]
+}
